@@ -1,0 +1,1 @@
+main = putStrLn "Initialized repo."
